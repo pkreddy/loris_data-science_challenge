@@ -1,9 +1,9 @@
 ﻿About the data science challenge
 
 
-1.The data is the DailyDialogue dataset, which contains 10,000+ text-based dialogues between two people. A full description of the dataset is here and the data can be downloaded in a single zip file here.
-2.Each conversation is a single row in the text file. Each conversation (or row) has multiple (alternating) messages between two speakers. Each message in the conversation is separated by the special delimiter “__eou__”. 
-3.Each message in the conversation is labeled both with an intent (e.g. question) and an emotion (e.g. happy). Therefor, you should have as many intent and emotion labels per conversation as there are “__eou__” delimiters. See the README in the zip file for me information.
+1)The data is the DailyDialogue dataset, which contains 10,000+ text-based dialogues between two people. A full description of the dataset is here and the data can be downloaded in a single zip file here.
+2)Each conversation is a single row in the text file. Each conversation (or row) has multiple (alternating) messages between two speakers. Each message in the conversation is separated by the special delimiter “__eou__”. 
+3)Each message in the conversation is labeled both with an intent (e.g. question) and an emotion (e.g. happy). Therefor, you should have as many intent and emotion labels per conversation as there are “__eou__” delimiters. See the README in the zip file for me information.
 
 
 
